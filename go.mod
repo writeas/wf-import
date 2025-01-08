@@ -9,8 +9,8 @@ require (
 
 require (
 	github.com/writeas/impart v1.1.1 // indirect
-	golang.org/x/crypto v0.28.0 // indirect
-	golang.org/x/sys v0.26.0 // indirect
-	golang.org/x/term v0.25.0 // indirect
+	golang.org/x/crypto v0.31.0 // indirect
+	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/term v0.27.0 // indirect
 	h12.io/socks v1.0.3 // indirect
 )
